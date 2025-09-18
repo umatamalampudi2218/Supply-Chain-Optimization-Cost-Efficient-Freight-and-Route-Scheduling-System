@@ -65,7 +65,7 @@ The project uses a supply chain dataset consisting of:
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/SuryaVegesna27/Supply-Chain-Optimization-Cost-Efficient-Freight-and-Route-Scheduling-System.git
+git clone https://github.com/umatamalampudi26/Supply-Chain-Optimization-Cost-Efficient-Freight-and-Route-Scheduling-System.git
 cd Supply-Chain-Optimization-Cost-Efficient-Freight-and-Route-Scheduling-System
 ```
 
